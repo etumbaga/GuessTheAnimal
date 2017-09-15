@@ -1,1 +1,0 @@
-[{"Name":"Dog","Description":"Has four legs, barks, man's best friend"},{"Name":"Cat","Description":"Has four legs, meows"},{"Name":"Elephant","Description":"Has a trunk, trumpets, and is gray"},{"Name":"Lion","Description":"Has a mane, roars, and is yellow"},{"Name":"Horse","Description":"Has four legs, can run pretty fast, neighs"}]
